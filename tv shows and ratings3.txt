@@ -1,0 +1,4 @@
+tv:sopranos,Nip\Tuck,wwe Raw
+ratings:9.2
+tv:kfjktf,outlander
+ratings:7.9

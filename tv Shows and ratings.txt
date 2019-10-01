@@ -1,0 +1,16 @@
+tv:sopranos,Nip\Tuck,wwe Raw
+ratings:9.2
+tv:blackList,outlander
+ratings:7.9
+tv:the handmaid's tale,Narcos,friends
+ratings:8.7
+tv:the big bang theory,how i met your mother
+ratings:8.2
+tv:gossip girl,pretty little liars
+ratings:7.4
+tv:black mirror,vampire diaries
+ratings:8.2
+tv:the spy,game of thrones
+ratings:9.3
+tv:fauda,future man
+ratings:8.0
